@@ -47,7 +47,7 @@
   <a href="mailto:anshulrajkumar777@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/anshul-rajkumar/">LinkedIn</a> •
   <a href="https://github.com/AnshulRajkumar">GitHub</a> •
-  <a href="https://discord.com/users/yourdiscordtag">Instagram</a>
+  <a href="https://www.instagram.com/anshul_raj_kumar/">Instagram</a>
 </p>
 
 ---
