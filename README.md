@@ -1,6 +1,6 @@
 <!-- README.md -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&center=true&width=600&lines=Hello%2C+I'm+Anshul!;CSE+%2B+DS+Student;Cybersecurity;Welcome+to+my+GitHub!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&center=true&width=600&lines=Hello%2C+I'm+Anshul!;CSE+%2BDSA + AI/ML Student + Artist;Cybersecurity;Welcome+to+my+GitHub!" />
 </p>
 
 <p align="center">
@@ -32,21 +32,22 @@
 
 | Project | Description |
 |----------|-------------|
-| ☀️ [**Halo CME Detection (Aditya-L1)**](https://github.com/yourusername/halo-cme-detection) | Detection of Halo Coronal Mass Ejections using SWIS-ASPEX payload particle data with ML-based transient event analysis. |
-| 🧠 [**Visual Inference on Drone Images**](https://github.com/yourusername/drone-ai-vision) | Object recognition system using YOLO + HSV color segmentation for aerial and low-angle drone views. |
-| 💻 [**Coding Club NFSU Website**](https://github.com/yourusername/codingclub-nfsu) | Official website for the Coding Club at NFSU Tripura — featuring real-time updates and interactive member sections. |
-| 🛰️ [**ESP32 Smart TDS Monitor**](https://github.com/yourusername/esp32-tds-monitor) | IoT device for real-time TDS measurement with Wi-Fi data transmission and web dashboard interface. |
-| 🍴 [**Canteen Connect (Flutter App)**](https://github.com/yourusername/canteen-connect) | Mobile app for food order management with Firebase backend and Google Sheets integration. |
+| [**Halo CME Detection (Aditya-L1)**](https://github.com/AnshulRajkumar/NIT_internship) | Research project on detecting Halo Coronal Mass Ejections using SWIS-ASPEX payload particle data; trained ML models for transient solar event classification. |
+| [**Object Detection using HSV**](https://github.com/AnshulRajkumar/Object-Detection-using-HSV) | Real-time object detection based on HSV color thresholds — foundational module for drone-based tracking and scene analysis. |
+| [**Coding Club NFSU Website**](https://github.com/AnshulRajkumar/codingclub-nfsu) | Official website for the Coding Club at NFSU Tripura — designed for real-time updates, student contributions, and event management. |
+| [**Visual Inference Playground**](https://github.com/AnshulRajkumar/playground) | Experimental workspace featuring AI + CV models, including YOLO inference tests, HSV tuning, and visual preprocessing experiments. |
+| [**Canteen Connect (Flutter App)**](https://github.com/AnshulRajkumar/canteen-connect) | Flutter-based food order management app integrating Firebase Firestore and Google Sheets for real-time canteen operations. |
 
 ---
+
 
 <h3 align="center">📫 Let's Connect</h3>
 
 <p align="center">
-  <a href="mailto:anshulrajkumar.work@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/anshulrajkumar/">💼 LinkedIn</a> •
-  <a href="https://github.com/AnshulRajkumar">🧑‍💻 GitHub</a> •
-  <a href="https://discord.com/users/yourdiscordtag">👾 Discord</a>
+  <a href="mailto:anshulrajkumar777@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/anshul-rajkumar/">LinkedIn</a> •
+  <a href="https://github.com/AnshulRajkumar">GitHub</a> •
+  <a href="https://discord.com/users/yourdiscordtag">Instagram</a>
 </p>
 
 ---
