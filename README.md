@@ -32,11 +32,10 @@
 
 | Project | Description |
 |----------|-------------|
-| [**Halo CME Detection (Aditya-L1)**](https://github.com/AnshulRajkumar/NIT_internship) | Research project on detecting Halo Coronal Mass Ejections using SWIS-ASPEX payload particle data; trained ML models for transient solar event classification. |
+| [**NITA internship Drone Forensics**](https://github.com/AnshulRajkumar/NIT_internship) | A AI/ML Trained Drone View Object Detection Model for Drones helpful for Survillience , Developed during internship in NITA |
 | [**Object Detection using HSV**](https://github.com/AnshulRajkumar/Object-Detection-using-HSV) | Real-time object detection based on HSV color thresholds — foundational module for drone-based tracking and scene analysis. |
-| [**Coding Club NFSU Website**](https://github.com/AnshulRajkumar/codingclub-nfsu) | Official website for the Coding Club at NFSU Tripura — designed for real-time updates, student contributions, and event management. |
+| [**Coding Club NFSU Website**](https://codingclub-nfsu.vercel.app) | Official website for the Coding Club at NFSU Tripura — designed for real-time updates, student contributions, and event management. |
 | [**Visual Inference Playground**](https://github.com/AnshulRajkumar/playground) | Experimental workspace featuring AI + CV models, including YOLO inference tests, HSV tuning, and visual preprocessing experiments. |
-| [**Canteen Connect (Flutter App)**](https://github.com/AnshulRajkumar/canteen-connect) | Flutter-based food order management app integrating Firebase Firestore and Google Sheets for real-time canteen operations. |
 
 ---
 
@@ -63,8 +62,3 @@
 </p>
 
 ---
-
-<p align="center">
-  🌌 “Breaking barriers, building intelligence — one line of code at a time.”<br>
-  🔐 Stay curious. Stay secure.
-</p>
