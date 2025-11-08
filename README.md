@@ -11,17 +11,17 @@
 
 ---
 
-<h3 align="center">👨‍💻 About Me</h3>
+<h3 align="center">About Me</h3>
 
-- 🎓 **B.Tech–M.Tech (CSE - Cybersecurity) @ National Forensic Sciences University, Tripura**  
-- 🌐 **Web Developer at Coding Club, NFSU Tripura**  
-- 🛰️ Researcher in **AI-driven Drone Image Analysis** and **Solar Event Detection (Aditya-L1 Project)**  
-- 💡 Passionate about **Cybersecurity, Machine Learning, Drone Vision, and Real-time Systems**  
-- ✍️ Always experimenting, building, and breaking to learn how things truly work.
+- **B.Tech–M.Tech (CSE - Cybersecurity) @ National Forensic Sciences University, Tripura**  
+- **Web Developer at Coding Club, NFSU Tripura**  
+- Researcher in **AI-driven Drone Image Analysis** and **Solar Event Detection (Aditya-L1 Project)**  
+- Passionate about **Cybersecurity, Machine Learning, Drone Vision, and Real-time Systems**  
+- Always experimenting, building, and breaking to learn how things truly work.
 
 ---
 
-<h3 align="center">🧰 Tech Stack</h3>
+<h3 align="center">Tech Stack</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,html,css,flutter,cpp,java,arduino,linux,git,github,mysql" />
@@ -29,7 +29,7 @@
 
 ---
 
-<h3 align="center">🚀 Featured Projects</h3>
+<h3 align="center">Featured Projects</h3>
 
 | Project | Description |
 |----------|-------------|
@@ -41,7 +41,7 @@
 ---
 
 
-<h3 align="center">📫 Let's Connect</h3>
+<h3 align="center">Let's Connect</h3>
 
 <p align="center">
   <a href="mailto:anshulrajkumar777@gmail.com">Email</a> •
@@ -52,7 +52,7 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center">GitHub Stats</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnshulRajkumar&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="165px"/>
