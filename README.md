@@ -1,12 +1,12 @@
 <!-- README.md -->
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&center=true&width=700&lines=Hey+there%2C+I'm+Anshul!;Cybersecurity+%7C+AI+%7C+Web+Developer;Drone+Vision+%26+Forensics;Welcome+to+my+Digital+Workspace!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&center=true&width=600&lines=Hello%2C+I'm+Anshul!;CSE+%2B+DS+Student;Cybersecurity;Welcome+to+my+GitHub!" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKP5tHj8vE3pD1K/giphy.gif" width="220px" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200px" />
 </p>
+
 
 ---
 
