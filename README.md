@@ -36,7 +36,7 @@
 | [**NITA internship Drone Forensics**](https://github.com/AnshulRajkumar/NIT_internship) | A AI/ML Trained Drone View Object Detection Model for Drones helpful for Survillience , Developed during internship in NITA |
 | [**Object Detection using HSV**](https://github.com/AnshulRajkumar/Object-Detection-using-HSV) | Real-time object detection based on HSV color thresholds — foundational module for drone-based tracking and scene analysis. |
 | [**Coding Club NFSU Website**](https://codingclub-nfsu.vercel.app) | Official website for the Coding Club at NFSU Tripura — designed for real-time updates, student contributions, and event management. |
-| [**PlayGround-NFSU**](https://github.com/AnshulRajkumar/playground) | A Website made specially for NFSU-Tripura for its events. |
+| [**PlayGround-NFSU**](https://playground-nfsu.vercel.app) | A Website made specially for NFSU-Tripura for its events. |
 
 ---
 
