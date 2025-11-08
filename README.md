@@ -1,56 +1,69 @@
-## <h1 align="center">Hello, I'm Anshul 👋</h1>
+<!-- README.md -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmVvYjIwb2U1N3NjMmN3eGpzbXhyemVtOXNvOXgzZ2F4MGd3ZGE0aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Yl5VGpbTnqAErhUnxn/giphy.gif" width="400"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&center=true&width=700&lines=Hey+there%2C+I'm+Anshul!;Cybersecurity+%7C+AI+%7C+Web+Developer;Drone+Vision+%26+Forensics;Welcome+to+my+Digital+Workspace!" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKP5tHj8vE3pD1K/giphy.gif" width="220px" />
 </p>
 
 ---
 
-### 🧠 About Me
-- 🎓 B.Tech–M.Tech (Dual Degree) in CSE (Cybersecurity) at **National Forensic Sciences University**
-- 🔍 Interests: **AI, Cybersecurity, Drone Vision, and Digital Forensics**
-- 🚀 Passionate about building intelligent systems & secure infrastructures
-- 💬 Ask me about: Machine Learning, YOLO, ESP32, and full-stack development
+<h3 align="center">👨‍💻 About Me</h3>
+
+- 🎓 **B.Tech–M.Tech (CSE - Cybersecurity) @ National Forensic Sciences University, Tripura**  
+- 🌐 **Web Developer at Coding Club, NFSU Tripura**  
+- 🛰️ Researcher in **AI-driven Drone Image Analysis** and **Solar Event Detection (Aditya-L1 Project)**  
+- 💡 Passionate about **Cybersecurity, Machine Learning, Drone Vision, and Real-time Systems**  
+- ✍️ Always experimenting, building, and breaking to learn how things truly work.
 
 ---
 
-### 🧰 Tech Stack
+<h3 align="center">🧰 Tech Stack</h3>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,cpp,java,flutter,react,arduino,linux,git,github,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,flutter,cpp,java,arduino,linux,git,github,mysql" />
 </p>
 
 ---
 
-### 💼 Featured Projects
+<h3 align="center">🚀 Featured Projects</h3>
+
 | Project | Description |
 |----------|-------------|
-| [🧠 Visual Inference using AI](https://github.com/yourusername/project-link) | Drone image analysis using ML and soft computing techniques. |
-| [🛰️ Halo CME Detection (Aditya-L1)](https://github.com/yourusername/project-link) | Detection of transient CME events using SWIS-ASPEX payload data. |
-| [💻 Dhanus Club Website](https://github.com/yourusername/project-link) | Developer & Hacker community portal for NFSU students. |
-| [📱 Canteen Connect App](https://github.com/yourusername/project-link) | Flutter + Firebase app for food order management and analytics. |
+| ☀️ [**Halo CME Detection (Aditya-L1)**](https://github.com/yourusername/halo-cme-detection) | Detection of Halo Coronal Mass Ejections using SWIS-ASPEX payload particle data with ML-based transient event analysis. |
+| 🧠 [**Visual Inference on Drone Images**](https://github.com/yourusername/drone-ai-vision) | Object recognition system using YOLO + HSV color segmentation for aerial and low-angle drone views. |
+| 💻 [**Coding Club NFSU Website**](https://github.com/yourusername/codingclub-nfsu) | Official website for the Coding Club at NFSU Tripura — featuring real-time updates and interactive member sections. |
+| 🛰️ [**ESP32 Smart TDS Monitor**](https://github.com/yourusername/esp32-tds-monitor) | IoT device for real-time TDS measurement with Wi-Fi data transmission and web dashboard interface. |
+| 🍴 [**Canteen Connect (Flutter App)**](https://github.com/yourusername/canteen-connect) | Mobile app for food order management with Firebase backend and Google Sheets integration. |
 
 ---
 
-### 🌐 Connect with Me
+<h3 align="center">📫 Let's Connect</h3>
+
 <p align="center">
-  <a href="mailto:anshul@example.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
-  <a href="https://linkedin.com/in/anshulrajkumar"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-  <a href="https://x.com/AnshulRajkumar"><img src="https://skillicons.dev/icons?i=twitter" height="40" /></a>
-  <a href="https://github.com/AnshulRajkumar"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
+  <a href="mailto:anshulrajkumar.work@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/anshulrajkumar/">💼 LinkedIn</a> •
+  <a href="https://github.com/AnshulRajkumar">🧑‍💻 GitHub</a> •
+  <a href="https://discord.com/users/yourdiscordtag">👾 Discord</a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnshulRajkumar&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshulRajkumar&layout=compact&theme=tokyonight" height="165"/>
-</p>
+<h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnshulRajkumar&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AnshulRajkumar&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="165px"/>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnshulRajkumar&theme=tokyonight&hide_border=true" height="165px"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshulRajkumar&theme=tokyonight&layout=compact&hide_border=true" height="165px"/>
 </p>
 
 ---
 
-⭐ **"Code. Secure. Inspire."**
+<p align="center">
+  🌌 “Breaking barriers, building intelligence — one line of code at a time.”<br>
+  🔐 Stay curious. Stay secure.
+</p>
