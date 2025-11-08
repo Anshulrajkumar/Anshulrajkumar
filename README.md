@@ -1,6 +1,6 @@
 <!-- README.md -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&center=true&width=600&lines=Hello%2C+I'm+Anshul!;CSE+%2BDSA + AI/ML Student + Artist;Cybersecurity;Welcome+to+my+GitHub!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&center=true&width=600&lines=Hello%2C+I'm+Anshul!;CSE+%2BDSA+AI/M%2BStudent+Artist;Cybersecurity;Welcome+to+my+GitHub!" />
 </p>
 </n>
 
