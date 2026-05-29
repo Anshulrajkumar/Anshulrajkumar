@@ -13,10 +13,8 @@
 
 <h3 align="center">About Me</h3>
 
-- **B.Tech–M.Tech (CSE - Cybersecurity) @ National Forensic Sciences University, Tripura**  
-- **Web Developer at Coding Club, NFSU Tripura**  
+
 - Researcher in **AI-driven Drone Image Analysis** and **Solar Event Detection (Aditya-L1 Project)**  
-- Passionate about **Cybersecurity, Machine Learning, Drone Vision, and Real-time Systems**  
 - Always experimenting, building, and breaking to learn how things truly work.
 
 ---
