@@ -14,7 +14,7 @@
 <h3 align="center">About Me</h3>
 
 
-- Researcher in **AI-driven Drone Image Analysis** and **Solar Event Detection (Aditya-L1 Project)**  
+- Researcher in **Drone Image Analysis**
 - Always experimenting, building, and breaking to learn how things truly work.
 
 ---
